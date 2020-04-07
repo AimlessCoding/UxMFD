@@ -1,0 +1,12 @@
+{
+  "Fighter Attack": "0x60",
+  "Cockpit Mode": "m",
+  "Left Panel": "1",
+  "Message Panel": "2",
+  "Centre Panel": "3",
+  "Right Panel": "4",
+  "75% Throttle": "shift;s",
+  "Silent Running": "v",
+  "Lights": "l",
+  "Galaxy": "shift;m"
+}
